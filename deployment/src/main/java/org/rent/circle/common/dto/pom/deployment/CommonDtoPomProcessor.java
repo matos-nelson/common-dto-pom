@@ -1,4 +1,4 @@
-package org.property.management.common.dto.pom.deployment;
+package org.rent.circle.common.dto.pom.deployment;
 
 import io.quarkus.deployment.annotations.BuildStep;
 import io.quarkus.deployment.builditem.FeatureBuildItem;
